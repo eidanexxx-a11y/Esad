@@ -7,3 +7,6 @@
 /skin url https://raw.githubusercontent.com/eidanexxx-a11y/Esad/refs/heads/main/cat.png
 
 /skin url https://raw.githubusercontent.com/eidanexxx-a11y/Esad/refs/heads/main/sus.png
+
+/skin url https://raw.githubusercontent.com/eidanexxx-a11y/Esad/refs/heads/main/serio.png
+
